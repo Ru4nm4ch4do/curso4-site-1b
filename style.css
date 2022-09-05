@@ -1,5 +1,5 @@
 body {
-    background: rgba(0, 74, 104, 0.658);
+    background-color: rgba(0, 74, 104, 0.658);
 }
 
 p {
@@ -10,4 +10,8 @@ p {
 h1 {
     text-align: center;
     background: rgba(0, 74, 104, 0.658)
+}
+
+strong {
+    color: antiquewhite;
 }
