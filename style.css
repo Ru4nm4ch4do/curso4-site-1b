@@ -13,3 +13,7 @@ h1 {
 strong {
     color: rgb(255, 255, 255);
 }
+
+.itens {
+      font-style: italic
+}
