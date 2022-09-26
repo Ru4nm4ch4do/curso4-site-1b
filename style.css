@@ -1,5 +1,5 @@
 body {
-    background-image: url(3090-wallpaper-Top.png) ;
+    background-image: url('3090-wallpaper-Top.png');
 }
 
 p {
@@ -14,6 +14,7 @@ h1 {
 strong {
     color: rgb(164, 193, 212);
 }
+
 
 .itens {
       font-style: italic
