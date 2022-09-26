@@ -1,5 +1,4 @@
 body {
-    background-image: url('3090-wallpaper-Top.png');
 }
 
 p {
@@ -15,17 +14,18 @@ strong {
     color: rgb(164, 193, 212);
 }
 
+.principal {
+    background-image: url(3090-wallpaper-Top.png);
+}
 
 .itens {
         text-align: center;
-      font-style: italic
+      font-style: italic;
 }
 
 .beneficios {
      text-align: center;
-     font-style: italic
+     font-style: italic;
 }
 
-h2 {
-    text-align: center;
-}
+
