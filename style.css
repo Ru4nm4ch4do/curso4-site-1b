@@ -11,8 +11,8 @@ strong {
 }
 
 .principal {
-    background-image: url('3090-wallpaper-Top.png');
-    background-repeat: no-repeat;
+     background-image: url('3090-wallpaper-Top.png');
+     background-repeat: no-repeat;
 }
 
 .itens {
@@ -21,6 +21,7 @@ strong {
 }
 
 .beneficios {
+     background-color: rgb(255, 255, 255);
      text-align: center;
      font-style: italic;
 }
