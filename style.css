@@ -1,6 +1,3 @@
-body {
-}
-
 p {
     text-align: center;
 }
@@ -15,7 +12,8 @@ strong {
 }
 
 .principal {
-    background-image: url(3090-wallpaper-Top.png);
+    background-image: url('3090-wallpaper-Top.png');
+    background-repeat: no-repeat;
 }
 
 .itens {
