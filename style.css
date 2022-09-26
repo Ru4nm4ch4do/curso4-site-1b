@@ -3,14 +3,12 @@ body {
 }
 
 background {
-    
+    background-image: url(3090-wallpaper-Top.png) ;
 }
 p {
     text-align: center;
 }
 
-.principal {
-    background-image: url(3090-wallpaper-Top.png) ;
 }
 
 h1 {
