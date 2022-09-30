@@ -1,31 +1,28 @@
-body {
+    p  {
+    text-align: center;
+    }
     
-}
-
-p {
+    h1 {
     text-align: center;
-}
-
-.principal {
-    background-image: url(3090-wallpaper-Top.png) ;
-}
-
-h1 {
+    }
+    
+    strong {
+    color: rgb(164, 193, 212);
+    }
+    
+    .principal {
+    background-image: url('3090-wallpaper-Top.png');
+    
+    background-repeat: no-repeat;
+    }
+    
+    .itens {
     text-align: center;
-}
-
-strong {
-    color: rgb(255, 255, 255);
-}
-
-.itens {
-      font-style: italic
-}
-
-.beneficios {
-      background-image: url(3090-wallpaper-Top.png)
-}
-
-h2 {
+    font-style: italic;
+    }
+    
+    .beneficios {
+    background-color: rgb(255, 255, 255);
     text-align: center;
-}
+    font-style: italic;
+    }
