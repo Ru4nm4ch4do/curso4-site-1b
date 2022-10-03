@@ -12,9 +12,9 @@
     
     .principal {
     background-image: url('3090-wallpaper-Top.png');
-    font-size: larger;
-    
+    width: 100%;
     background-repeat: no-repeat;
+    font-size: larger;
     }
     
     .itens {
