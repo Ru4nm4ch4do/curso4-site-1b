@@ -12,7 +12,6 @@
     
     .principal {
     background-image: url('3090-wallpaper-Top.png');
-    width: 100%;
     background-repeat: no-repeat;
     font-size: larger;
     }
@@ -30,3 +29,6 @@
     font-style: oblique;
     }
     
+    #placadevideo {
+        width: 100%;
+    }
