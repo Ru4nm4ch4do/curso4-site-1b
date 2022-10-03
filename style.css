@@ -12,6 +12,7 @@
     
     .principal {
     background-image: url('3090-wallpaper-Top.png');
+    font-size: larger;
     
     background-repeat: no-repeat;
     }
@@ -26,7 +27,6 @@
     }
 
     h2 {
-    text-align: center;
     font-style: oblique;
     }
     
