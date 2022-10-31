@@ -14,3 +14,7 @@ nav li {
 #logo {
     display: inline;
 }
+
+nav {
+    display: inline-block;
+}
