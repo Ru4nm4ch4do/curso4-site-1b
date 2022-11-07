@@ -1,5 +1,8 @@
 header {
     background: rgb(0, 0, 0);
+}
+
+.caixa-nav {
     position: relative;
     width: 940px;
     margin: 0 auto;
